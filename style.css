@@ -1,0 +1,20 @@
+h1, p {color: purple
+}
+  background-color: yellow;
+  text-align: right;
+}
+{h1
+color purple;
+}
+. facts {
+  background: green;
+
+}
+.facts .important {
+  background: green;
+}
+@media only screen and (max-width: 600px) {
+
+  body {
+  background: purple;
+}
